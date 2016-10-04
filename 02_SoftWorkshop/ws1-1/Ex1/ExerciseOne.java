@@ -1,6 +1,8 @@
 /**
  * This program computes the area of a
  * circle and prints it to screen.
+ * @author Tom Brereton
+ * @
  */
 
 public class ExerciseOne{
