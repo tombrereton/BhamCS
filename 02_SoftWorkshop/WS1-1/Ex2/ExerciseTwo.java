@@ -1,6 +1,6 @@
 /**
- * This program converts a person's weight
- * from imperial to metric measurements.
+ * This program converts imperial weight
+ * to metric measurements.
  */
 
 public class ExerciseTwo{
